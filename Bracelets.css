@@ -13,8 +13,33 @@
     font-family: Ariel, sans-serif; 
 }
 
+#image {
+    position: absolute;
+    top: 50%;
+    width: 350px;
+    height: 240px;
+}
 
 body {
     background-image: url("BackgroundforJutoWebsitehomepage.jpg");
 }
 
+#Jutologo {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 0px;
+    margin-top: -50px; 
+}
+
+#Ordernowbtn {
+    position: absolute;
+    width: 600px;
+    height: 150px;
+    color: Black; 
+    background-color: yellow; 
+    margin-top: 400px; 
+    margin-left: 800px; 
+    border-radius: 35px;
+    font-size: 50px; 
+}
