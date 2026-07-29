@@ -1,12 +1,18 @@
 #title {
     text-align: center;
-    color: white;
+    font-size: 100px;
+    color: White;
+    font-family: Ariel, sans-serif; 
 }
 
 #intro {
     text-align: center;
-    color: white;
+    bottom: 400px;
+    top: 200px;
+    color: White;
+    font-family: Ariel, sans-serif; 
 }
+
 
 body {
     background-image: url("BackgroundforJutoWebsitehomepage.jpg");
